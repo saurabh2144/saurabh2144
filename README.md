@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [resume2144.netlify](resume2144.netlify)
 
-<h3 align="left">Big Projects:</h3>
+<h3 align="left">Major Projects:</h3>
 <ul>
   <li><b>Saurabh Electronics App:</b> A complete Android application for purchasing electronics items. 
     <br><a href="https://github.com/saurabh2144/Saurabh-Electronics---Android-Apk/releases/tag/v1.0.0" target="_blank" style="text-decoration:none;background-color:#4CAF50;color:white;padding:5px 10px;border-radius:5px;">Download APK</a>
