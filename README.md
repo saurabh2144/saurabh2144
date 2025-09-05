@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [my-portfolio.netlify](my-portfolio.netlify)
+
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/100Gods/](https://www.linkedin.com/in/100Gods/)
 
@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **itsmesaurabh214@gmail.com**
 
-- 📄 Know about my experiences [resume2144.netlify](resume2144.netlify)
 
 <h3 align="left">Major Projects:</h3>
 <ul>
