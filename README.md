@@ -1,6 +1,6 @@
 ![logo](https://github.com/saurabh2144/saurabh2144/blob/main/saurabh%20Singh%20(1)%20(1).jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
-<h3 align="center">A passionate full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabh2144&label=Profile%20views&color=0e75b6&style=flat" alt="saurabh2144" /> </p>
@@ -9,31 +9,42 @@
 
 - 🌱 I’m currently learning **MERN**
 
-
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/100Gods/](https://www.linkedin.com/in/100Gods/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/100Gods/)
 
 - 💬 Ask me about **Anything**
 
 - 📫 How to reach me **itsmesaurabh214@gmail.com**
 
+---
 
-<h3 align="left">Major Projects:</h3>
+<h3 align="left">🚀 Major Projects:</h3>
 <ul>
-  <li><b>Saurabh Electronics App:</b> A complete Android application for purchasing electronics items. 
-    <br><a href="https://github.com/saurabh2144/Saurabh-Electronics---Android-Apk/releases/tag/v1.0.0" target="_blank" style="text-decoration:none;background-color:#4CAF50;color:white;padding:5px 10px;border-radius:5px;">Download APK</a>
+  <li>
+    <b>Puncture Dada – On Road Help:</b> A MERN + Java Full Stack project for providing on-road puncture assistance.  
+    Features include booking system, real-time mechanic tracking, OTP login, wallet system, and admin dashboard.
+    <br><br>
+    <a href="https://puncture-dada-mern-1.onrender.com/" target="_blank" style="text-decoration:none;background-color:#e74c3c;color:white;padding:6px 12px;border-radius:6px;font-weight:bold;">🚀 Live Demo</a>
+    &nbsp; | &nbsp;
+    <a href="https://github.com/saurabh2144/puncture-dada-mern" target="_blank" style="text-decoration:none;background-color:#3498db;color:white;padding:6px 12px;border-radius:6px;">💻 View Code</a>
   </li>
-  <li><b>Puncture Dada – On Road Help:</b> A MERN + Java Full Stack project for providing on-road puncture assistance. Features include booking system, real-time mechanic tracking, OTP login, wallet system, and admin dashboard.
-    <br><a href="https://github.com/saurabh2144/puncture-dada-mern" target="_blank" style="text-decoration:none;background-color:#f39c12;color:white;padding:5px 10px;border-radius:5px;">View Project</a>
+  <br>
+  <li>
+    <b>Saurabh Electronics App:</b> A complete Android application for purchasing electronics items. 
+    <br><br>
+    <a href="https://github.com/saurabh2144/Saurabh-Electronics---Android-Apk/releases/tag/v1.0.0" target="_blank" style="text-decoration:none;background-color:#2ecc71;color:white;padding:6px 12px;border-radius:6px;">📱 Download APK</a>
   </li>
 </ul>
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/100gods/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/100gods/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/100gods" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -55,5 +66,7 @@
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
+
+---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabh2144&show_icons=true&locale=en&layout=compact" alt="saurabh2144" /></p>
