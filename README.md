@@ -24,7 +24,7 @@
     <br><a href="https://github.com/saurabh2144/Saurabh-Electronics---Android-Apk/releases/tag/v1.0.0" target="_blank" style="text-decoration:none;background-color:#4CAF50;color:white;padding:5px 10px;border-radius:5px;">Download APK</a>
   </li>
   <li><b>Puncture Dada – On Road Help:</b> A MERN + Java Full Stack project for providing on-road puncture assistance. Features include booking system, real-time mechanic tracking, OTP login, wallet system, and admin dashboard.
-    <br><a href="https://github.com/saurabh2144/puncture-dada" target="_blank" style="text-decoration:none;background-color:#f39c12;color:white;padding:5px 10px;border-radius:5px;">View Project</a>
+    <br><a href="https://github.com/saurabh2144/puncture-dada-mern" target="_blank" style="text-decoration:none;background-color:#f39c12;color:white;padding:5px 10px;border-radius:5px;">View Project</a>
   </li>
 </ul>
 
